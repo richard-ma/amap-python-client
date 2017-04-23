@@ -1,0 +1,16 @@
+adium-theme-ubuntu==0.3.4
+beautifulsoup4==4.4.1
+chardet==2.3.0
+html5lib==0.999
+lxml==3.5.0
+PAM==0.4.2
+pexpect==4.0.1
+Pillow==3.1.2
+ptyprocess==0.5
+pygobject==3.20.0
+pyinotify==0.9.6
+requests==2.11.1
+six==1.10.0
+unity-lens-photos==1.0
+vboxapi==1.0
+virtualenv==15.1.0
