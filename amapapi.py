@@ -15,7 +15,7 @@ class AmapAPI(object):
         self.params['key'] = conf.getKey()
 
     def riding(self, origin, destination):
-        url = self.base_url + 'riding'
+        url = self.base_url + '/direction/riding'
         return self._fetch(url, origin, destination)
 
     # origin 'lon,lat'
